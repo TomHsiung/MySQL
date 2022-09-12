@@ -1,0 +1,2 @@
+# Remote login
+mysql -u username -p --host x.x.x.x
