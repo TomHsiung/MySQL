@@ -1,0 +1,2 @@
+# Re-initiate the installation process which contain the step to allow or disallow remote root login
+sudo mysql_secure_installation
